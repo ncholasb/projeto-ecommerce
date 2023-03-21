@@ -1,3 +1,6 @@
+⚠️ *Projeto da cadeira de Engenharia de Software simulando estrutura de um projeto* ⚠️
+
+
 # Fase 2: Projeto E-commerce - Engenharia de Software
 
 # Guidelines de versionamento do Projeto de e-commerce
